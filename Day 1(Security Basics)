@@ -4,3 +4,41 @@ There are 3 pillar of security-
 for example- S3 bucket should be private
 your whataap message
 
+Integrity_-> it defines what data should be correct no tampering data.
+example -->
+if i send  a message on fb hello so you should get hello.
+
+Availablity--> data/ application  should be available.
+
+🔐 Authentication (AuthN)
+
+👉 Who are you?
+It verifies your identity.
+
+Examples:
+
+Username & password
+OTP
+Fingerprint
+🛂 Authorization (AuthZ)
+
+👉 What can you do?
+It decides your permissions.
+
+Examples:
+
+Admin vs normal user
+Read-only vs full access
+⚡ Key Difference
+Authentication = Identity check
+Authorization = Access control
+🧠 Easy Trick
+
+👉 AuthN → Name (who you are)
+👉 AuthZ → Permissions (what you can do)
+
+cleint/Server --> who send the request either your bowser curl like you do google so xlient is goolge and who accept the request and give response is server for  example
+                  google server
+                  Client → request → Server
+                Server → response → Client
+
