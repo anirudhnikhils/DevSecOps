@@ -42,3 +42,5 @@ cleint/Server --> who send the request either your bowser curl like you do googl
                   Client → request → Server
                 Server → response → Client
 
+TLS/SSL--> Its used to secure the web server So we just have ssl cetificate which we got from any 
+
