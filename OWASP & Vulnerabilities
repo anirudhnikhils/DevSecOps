@@ -1,1 +1,3 @@
+SQLi-->SQL injection is a vurnivility that where user can manuplate database query using user input.
+if user input is not vailidate properly. it can be treat database command.
 
